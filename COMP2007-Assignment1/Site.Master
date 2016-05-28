@@ -32,11 +32,11 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="Default.aspx">Home</a></li>
-                    <li><a href="About.aspx">About Me</a></li>
-                    <li><a href="Projects.aspx">Projects</a></li>
-                    <li><a href="Services.aspx">Services</a></li>
-                    <li><a href="Contact.aspx">Contact Me</a></li>
+                    <li id="home" runat="server"><a href="Default.aspx">Home</a></li>
+                    <li id="about" runat="server"><a href="About.aspx">About Me</a></li>
+                    <li id="projects" runat="server"><a href="Projects.aspx">Projects</a></li>
+                    <li id="services" runat="server"><a href="Services.aspx">Services</a></li>
+                    <li id="contact" runat="server"><a href="Contact.aspx">Contact Me</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
