@@ -2,6 +2,10 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
-        <h1>About Me</h1>
+        <div class="row">
+            <div class="">
+                <h1>About Me</h1>
+            </div>
+        </div>
     </div>
 </asp:Content>
