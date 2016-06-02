@@ -1,10 +1,11 @@
 ﻿<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="COMP2007_Assignment1.Default" %>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <!-- Default.aspx -->
 <!-- Josh Mangoff -->
 <!-- http://joshmangoff-aspnet-portfolio.azurewebsites.net/ -->
 <!-- Main page content -->
 
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <!-- Text and positioning -->
     <div class="container">
         <div class="row">

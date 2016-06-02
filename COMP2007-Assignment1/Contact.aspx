@@ -1,10 +1,11 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_Assignment1.Contact" %>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <!-- Contact.aspx -->
 <!-- Josh Mangoff -->
 <!-- http://joshmangoff-aspnet-portfolio.azurewebsites.net/ -->
 <!-- Contact page content, includes form for sending and email -->
 
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
         <!-- Text and positioning -->
         <div class="row">
