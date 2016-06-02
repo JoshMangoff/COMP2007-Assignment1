@@ -10,6 +10,7 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
                 <h1>About Me</h1>
+                <p>I am a student at Georgian College in the Computer Programming Analyst course.</p>
             </div>
         </div>
     </div>

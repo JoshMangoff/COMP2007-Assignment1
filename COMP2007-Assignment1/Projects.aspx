@@ -10,6 +10,7 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
                 <h1>Projects</h1>
+                <p>I have created a tray-editor program for Hinterland Software, as well as having built this site!<br />I am punctual, consistent in my work, and I learn quickly.</p>
             </div>
         </div>
     </div>

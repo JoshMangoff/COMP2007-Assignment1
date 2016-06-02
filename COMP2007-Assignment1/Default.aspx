@@ -10,6 +10,7 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
                 <h1>Welcome to Josh Mangoff's Portfolio site!</h1>
+                <p>Welcome to my portfolio site!<br />This site was created using ASP.NET, Twitter Bootstrap, FontAwesome, and hosted on Azure.</p>
             </div>
         </div>
     </div>

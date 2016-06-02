@@ -10,6 +10,7 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
                 <h1>Services</h1>
+                <p>I can program in Java, C#, C++, Delphi 7, HTML 5, CSS3, JavaScript, and can use SQL.<br />I also know how to use Project, Visual Studio, and have lots of experience Microsoft Word and Excel.</p>
             </div>
         </div>
     </div>
