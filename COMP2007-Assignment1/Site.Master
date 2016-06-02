@@ -1,4 +1,8 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007_Assignment1.Site" %>
+﻿<!-- Site.Master -->
+<!-- Josh Mangoff -->
+<!-- http://joshmangoff-aspnet-portfolio.azurewebsites.net/ -->
+<!-- Master site with CSS & JavaScript links and navbar for portfolio -->
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007_Assignment1.Site" %>
 
 <!DOCTYPE html>
 
@@ -16,7 +20,7 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-
+    <!-- Navbar -->
     <nav class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
